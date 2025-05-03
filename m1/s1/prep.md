@@ -1,22 +1,37 @@
-Miro board
-Original Template: https://miro.com/app/board/uXjVNeEASJc=/?share_link_id=563047396351
-Clone: https://miro.com/app/board/uXjVI8OXAes=/?share_link_id=602905757091  (password "sheffield")
+# Onboarding - Sprint 1
 
-
+### [Miro board](https://miro.com/app/board/uXjVI66l7kM=/?share_link_id=869070056943)
+Use this to share your blockers
 
 ### Checklist
+
+#### Install the necessary programs
 - Install VSCode
 - Install Git
-- How to setup Git for use in VSCode?
-  - Extension needed
-  - Set up username and email globally
-- Fork CYF's Planner repo and setup a project in the forked repo
-- What is version control?
+- Setup Git for use in VSCode
+  - Install VSCode Exnteions: "Git Pull Request" and "Live Server"
+  - Set up your Git username and email globally
+
+#### Fork CYF's Planner repo and setup a project in the forked repo
+- Clone the backlogs in https://programming.codeyourfuture.io/onboarding/sprints/1/backlog/ to your project 
+
+#### Testing Git on your computer
+Can you successfully perform the following tasks
+- Fork https://github.com/CodeYourFuture/cyf-demo-repo
+- Clone the repo to your computer
+- Create a branch 
+- Commit some changes on a branch locally
+- Push your changes to Github
+- On Github, switch to the branch you modified (and locate the changes you made)
+
+#### Understanding Git 
+- What is ***version control***?
 - What is Git?
-  - What is a repository
-  - Different between fork and clone
-  - What is a commit?
-  - Viewing commit history
+  - What is a ***repository***
+  - Differences between ***fork*** and ***clone***
+  - What is a ***commit***?
+  - Why is the advantage of commit atomic changes
+  - How to view commit history
   - How to fork a repo
   - How to clone
   - What is a branch?

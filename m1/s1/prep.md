@@ -1,21 +1,25 @@
 # Onboarding - Sprint 1
 
-### [Miro board](https://miro.com/app/board/uXjVI66l7kM=/?share_link_id=869070056943)
-Use this to share your blockers
+### Miro board
+Use this [Miro board](https://miro.com/app/board/uXjVI66l7kM=/?share_link_id=869070056943) to share your blockers
 
 ### Checklist
-
-#### Install the necessary programs
+Complete the following tasks before joining the workshop on 11 May:
+ 
+#### Task 1: Install the necessary programs
 - Install VSCode
 - Install Git
 - Setup Git for use in VSCode
   - Install VSCode Exnteions: "Git Pull Request" and "Live Server"
   - Set up your Git username and email globally
 
-#### Fork CYF's Planner repo and setup a project in the forked repo
+#### Task 2: Fork CYF's Planner repo and setup a project in the forked repo
 - Clone the backlogs in https://programming.codeyourfuture.io/onboarding/sprints/1/backlog/ to your project 
 
-#### Testing Git on your computer
+#### Task 3: Fill up the Github username form
+- Complete https://github.com/CodeYourFuture/Module-Onboarding/issues/108
+
+#### Task 4: Test Git on your computer
 Can you successfully perform the following tasks
 - Fork https://github.com/CodeYourFuture/cyf-demo-repo
 - Clone the repo to your computer
